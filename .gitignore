@@ -1,0 +1,101 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+.vscode
+
+# Cython debug symbols
+cython_debug/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Virtual environment
+virtualenv/
+venv/
+
+# pytest
+.cache
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# pylint
+pylint-report.txt
+pylint-globalrc
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Flask instance folder
+instance/
+
+# SQLAlchemy
+*.db
+*.sqlite
+*.sqlite3
+
+# Pytest
+.cache/
+*.cover
+*.py,cover
+
+# Coverage
+.coverage
+.coverage.*
+
+# Local virtualenv
+.venv/
+venv/
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# pyright
+pyrightconfig.json
+
+# jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE files
+.idea/
+.vscode/
+
+# macOS Finder files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# JetBrains IDEs
+.idea/
+
+# Docker
+docker-compose.override.yml
